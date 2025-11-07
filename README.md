@@ -6,22 +6,22 @@ This project demonstrates key concepts in data preprocessing, feature engineerin
 
 🧩 Model Training
 The project uses the following ML models:
-K-Nearest Neighbors (KNN)
+K-Nearest Neighbors (KNN),
 Gaussian Naive Bayes (GaussianNB)
 
 Steps:
-Import libraries and dataset
-Data preprocessing and feature selection
-Train–test split
+Import libraries and dataset,
+Data preprocessing and feature selection,
+Train–test split,
 Model training using KNN and GaussianNB
 
 Model evaluation using:
-Accuracy Score
-Confusion Matrix
+Accuracy Score,
+Confusion Matrix,
 Classification Report
 
 #Technologies Used:
-Python 🐍
-Pandas, NumPy
-Scikit-learn
+Python 🐍,
+Pandas, NumPy,
+Scikit-learn,
 Matplotlib, Seaborn (for visualization)
